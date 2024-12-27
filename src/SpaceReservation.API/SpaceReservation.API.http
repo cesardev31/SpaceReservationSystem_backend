@@ -1,0 +1,6 @@
+@SpaceReservation.API_HostAddress = http://localhost:5191
+
+GET {{SpaceReservation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
